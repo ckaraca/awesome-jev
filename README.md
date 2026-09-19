@@ -81,7 +81,7 @@ Within each section, projects are sorted by GitHub stars. Counts are refreshed w
 
 ## Trading
 
-- [jarrodwatts/jev-trader](https://github.com/jarrodwatts/jev-trader) - One buy/sell decision per Monad block on Kuru MON-USDC. Runs in dry-run/mock mode by default and makes no promise of profit. ⭐ 871
+- [jarrodwatts/jev-trader](https://github.com/jarrodwatts/jev-trader) - One buy/sell decision per Monad block on Kuru MON-USDC. Runs in dry-run/mock mode by default and makes no promise of profit. ⭐ 872
 
 > Trading bots can lose money. Read the code and run in dry-run mode first.
 
