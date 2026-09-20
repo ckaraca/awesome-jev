@@ -81,6 +81,7 @@ Within each section, projects are sorted by GitHub stars. Counts are refreshed w
 - [devagrawal09/jev-review](https://github.com/devagrawal09/jev-review) - Staged code review over git diffs or whole codebases, scoring correctness, safety, reliability, compatibility, and test risk in a local dashboard. ⭐ 269
 - [monotykamary/pi-fabric](https://github.com/monotykamary/pi-fabric) - Pi agent runtime with typed Jev judgments and foreground or background decision loops with explicit budgets. ⭐ 234
 - [gargpratyush/jev-router](https://github.com/gargpratyush/jev-router) - Routes each Claude Code or Codex turn: easy tasks go to fast models, hard ones to strong models. ⭐ 140
+- [BillionsBobby/JevRouter](https://github.com/BillionsBobby/JevRouter) - Routes requests among models, tools, skills, and subagents using Jev's typed choices. Returns decisions for the host to execute, with CLI, SDK, and MCP interfaces.
 - [NiazMorshed2007/jev-review](https://github.com/NiazMorshed2007/jev-review) - Local-first MCP plugin for continuous quality review by AI coding agents. ⭐ 122
 - [vinilana/jev-eval-agent](https://github.com/vinilana/jev-eval-agent) - Evaluation agent built on Jev. ⭐ 85
 - [lakeday-org/perch](https://github.com/lakeday-org/perch) - Semantic code linting with Jev. ⭐ 72
