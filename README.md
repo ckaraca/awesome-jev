@@ -96,6 +96,7 @@ Within each section, projects are sorted by GitHub stars. Counts are refreshed w
 - [valentynkit/jev-belay](https://github.com/valentynkit/jev-belay) - Claude Code Stop hook that reads the transcript for evidence and, only when files changed with no passing check since, spends one four-question Jev call before letting an unverified "done" stand. ⭐ 17
 - [valentynkit/jev.nvim](https://github.com/valentynkit/jev.nvim) - Neovim plugin that asks the buffer a plain-language question, splits it into functions with Treesitter, and ranks Jev's per-function scores in quickfix. ⭐ 3
 - [morcoan/JevSeek](https://github.com/morcoan/JevSeek) - Local coding workspace: Jev routes actions and DeepSeek generates arguments. Native tools, persistent sessions, React desktop app. ⭐ 2
+- [valentynkit/jev-commit](https://github.com/valentynkit/jev-commit) - Pre-commit hook where one Jev call judges whether the commit message matches the staged diff, plus debug leftovers and unmentioned work; blocks only on a leaked credential.
 
 ## MCP servers & agent skills
 
