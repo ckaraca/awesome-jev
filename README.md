@@ -96,6 +96,7 @@ Within each section, projects are sorted by GitHub stars. Counts are refreshed w
 - [valentynkit/jev-belay](https://github.com/valentynkit/jev-belay) - Claude Code Stop hook that reads the transcript for evidence and, only when files changed with no passing check since, spends one four-question Jev call before letting an unverified "done" stand. ⭐ 17
 - [valentynkit/jev.nvim](https://github.com/valentynkit/jev.nvim) - Neovim plugin that asks the buffer a plain-language question, splits it into functions with Treesitter, and ranks Jev's per-function scores in quickfix. ⭐ 3
 - [morcoan/JevSeek](https://github.com/morcoan/JevSeek) - Local coding workspace: Jev routes actions and DeepSeek generates arguments. Native tools, persistent sessions, React desktop app. ⭐ 2
+- [ReallyArtificial/jev-by-example](https://github.com/ReallyArtificial/jev-by-example) - Runnable JavaScript lessons using Jev for memory reconciliation, tool-result checks, and handoff decisions, with offline fixtures and opt-in live calls.
 
 ## MCP servers & agent skills
 
@@ -189,3 +190,4 @@ Found something good? Open a pull request. See [CONTRIBUTING.md](CONTRIBUTING.md
 [![CC0](https://licensebuttons.net/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
 
 This list is released under [CC0 1.0](LICENSE). This project is not affiliated with TypeSafe AI.
+
