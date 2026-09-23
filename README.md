@@ -79,6 +79,7 @@ Within each section, projects are sorted by GitHub stars. Counts are refreshed w
 - [WrongStack/WrongStack](https://github.com/WrongStack/WrongStack) - Coding agent with opt-in Jev skill suggestions and fleet-dispatch classification through TypeSafe or OpenRouter. ⭐ 329
 - [SREGym/SREGym](https://github.com/SREGym/SREGym) - Benchmark for incident-resolution agents with optional Jev review of Codex diagnostic tests and submissions, disabled by default. ⭐ 289
 - [gargpratyush/jev-router](https://github.com/gargpratyush/jev-router) - Routes each Claude Code or Codex turn: easy tasks go to fast models, hard ones to strong models. ⭐ 285
+- [suenot/codex-jev-router](https://github.com/suenot/codex-jev-router) - Chooses Codex subagent model and reasoning effort using Jev Choice and Noul responses, with a Sol fallback.
 - [yonatangross/orchestkit](https://github.com/yonatangross/orchestkit) - Claude Code toolkit with opt-in Jev session classification and workflow routing, including shadow modes and fallbacks. ⭐ 280
 - [monotykamary/pi-fabric](https://github.com/monotykamary/pi-fabric) - Pi agent runtime with typed Jev judgments and foreground or background decision loops with explicit budgets. ⭐ 241
 - [coldteadotai/abide](https://github.com/coldteadotai/abide) - Makes your coding agent follow your project rules: Jev checks every edit or turn against each rule in AGENTS.md and returns a probability. ⭐ 199
