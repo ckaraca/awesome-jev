@@ -1,0 +1,4 @@
+# The TypeSafe Console is protected by Cloudflare and returns 403 to CI.
+# Keep the link for readers; skip only this exact landing page in automated checks.
+# Other URLs and HTTP 403 responses remain subject to the normal checks.
+exclude = ['^https://console\.typesafe\.ai/?$']
