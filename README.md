@@ -91,13 +91,14 @@ Within each section, projects are sorted by GitHub stars. Counts are refreshed w
 - [mrnugget/jev-shell-history](https://github.com/mrnugget/jev-shell-history) - Fish-style zsh history autosuggestions ranked by Jev. ⭐ 113
 - [vinilana/jev-eval-agent](https://github.com/vinilana/jev-eval-agent) - Evaluation agent built on Jev. ⭐ 105
 - [ellipsis-dev/blink](https://github.com/ellipsis-dev/blink) - Codebase search powered by Jev. ⭐ 83
+- [dzhng/jevgrep](https://github.com/dzhng/jevgrep) - CLI that uses Jev to find relevant files and source excerpts from natural-language queries. Sends selected source content to the configured hosted provider. ⭐ 74
 - [IAmUnbounded/save-token-jev-clean](https://github.com/IAmUnbounded/save-token-jev-clean) - Portable context compaction for coding agents: Jev decides which tool calls still matter, and conversation text stays verbatim. ⭐ 73
-- [dzhng/jevgrep](https://github.com/dzhng/jevgrep) - CLI that uses Jev to find relevant files and source excerpts from natural-language queries. Sends selected source content to the configured hosted provider. ⭐ 70
 - [EliaAlberti/jev-rules](https://github.com/EliaAlberti/jev-rules) - Claude Code plugin where Jev picks which of your rules apply to each prompt, so Claude only sees the relevant ones. ⭐ 50
 - [valentynkit/jev-belay](https://github.com/valentynkit/jev-belay) - Claude Code Stop hook that reads the transcript for evidence and, only when files changed with no passing check since, spends one four-question Jev call before letting an unverified "done" stand. ⭐ 18
 - [valentynkit/jev.nvim](https://github.com/valentynkit/jev.nvim) - Neovim plugin that asks the buffer a plain-language question, splits it into functions with Treesitter, and ranks Jev's per-function scores in quickfix. ⭐ 8
 - [morcoan/JevSeek](https://github.com/morcoan/JevSeek) - Local coding workspace: Jev routes actions and DeepSeek generates arguments. Native tools, persistent sessions, React desktop app. ⭐ 3
-- [ReallyArtificial/jev-by-example](https://github.com/ReallyArtificial/jev-by-example) - Runnable JavaScript lessons using Jev for memory reconciliation, tool-result checks, and handoff decisions, with offline fixtures and opt-in live calls.
+- [suenot/codex-jev-router](https://github.com/suenot/codex-jev-router) - Chooses Codex subagent model and reasoning effort using Jev Choice and Noul responses, with a Sol fallback. ⭐ 3
+- [ReallyArtificial/jev-by-example](https://github.com/ReallyArtificial/jev-by-example) - Runnable JavaScript lessons using Jev for memory reconciliation, tool-result checks, and handoff decisions, with offline fixtures and opt-in live calls. ⭐ 2
 
 ## MCP servers & agent skills
 
