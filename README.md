@@ -54,12 +54,12 @@ Within each section, projects are sorted by GitHub stars. Counts are refreshed w
 - [trycua/cua](https://github.com/trycua/cua/tree/main/libs/cua-driver/examples/jev-use) - Open-source computer-use platform with cross-OS drivers. Its `jev-use` example lets Jev choose the next action. ⭐ 26.6k
 - [browser-use/jev-ultrafast](https://github.com/browser-use/jev-ultrafast) - Browser agent that uses Jev to pick target elements and only calls a small LLM when it has to type text. ⭐ 20.5k
 - [awlevin/typesafe-computer-use](https://github.com/awlevin/typesafe-computer-use) - macOS computer use for about $0.0002 a step: OCR the screen, let Jev pick the next click. ⭐ 1k
-- [wy-coliney/jev-browser-use](https://github.com/wy-coliney/jev-browser-use) - Jev handles the clicks while Codex plans and verifies, for 5-10x faster browser runs. ⭐ 557
+- [wy-coliney/jev-browser-use](https://github.com/wy-coliney/jev-browser-use) - Jev handles the clicks while Codex plans and verifies, for 5-10x faster browser runs. ⭐ 559
 - [moritzkremb/jev-voice-browser](https://github.com/moritzkremb/jev-voice-browser) - Voice-controlled browser. Jev resolves intent and target in about 300 ms per spoken word, and Playwright executes. ⭐ 326
 - [kitze/unclutter](https://github.com/kitze/unclutter) - Browser extension that uses Jev to strip page clutter, with reusable template rules. ⭐ 304
-- [jkudish/jev-browser](https://github.com/jkudish/jev-browser) - Browser automation driven by Jev. ⭐ 275
+- [jkudish/jev-browser](https://github.com/jkudish/jev-browser) - Browser automation driven by Jev. ⭐ 276
 - [socai-io/socai](https://github.com/socai-io/socai) - Browser and computer-use agent tuned for social media research and content extraction. ⭐ 217
-- [realZachi/typesafe-adblock](https://github.com/realZachi/typesafe-adblock) - Fun Chrome extension that asks Jev "is this element an ad?" and removes it. BYOK, no backend, not a real ad blocker. ⭐ 82
+- [realZachi/typesafe-adblock](https://github.com/realZachi/typesafe-adblock) - Fun Chrome extension that asks Jev "is this element an ad?" and removes it. BYOK, no backend, not a real ad blocker. ⭐ 83
 - [jcpsimmons/jev-macos-loop](https://github.com/jcpsimmons/jev-macos-loop) - Native macOS GUI automation on Apple silicon: OmniParser CoreML and Apple Vision OCR find the controls, and Jev picks the action. ⭐ 23
 
 ## Mobile & robotics
@@ -73,9 +73,9 @@ Within each section, projects are sorted by GitHub stars. Counts are refreshed w
 - [tamaratran/fast-jev-compaction](https://github.com/tamaratran/fast-jev-compaction) - Claude Code plugin that replaces compaction summaries with Jev decisions. Each tool call is scored, stale ones are dropped, and the rest stays verbatim. ⭐ 7k
 - [vercel-labs/ai-cli](https://github.com/vercel-labs/ai-cli) - Terminal CLI whose `ai evaluate` command asks typed questions about stdin and returns JSON, using Jev through Vercel AI Gateway by default. ⭐ 816
 - [devagrawal09/jev-review](https://github.com/devagrawal09/jev-review) - Staged code review over git diffs or whole codebases, scoring correctness, safety, reliability, compatibility, and test risk in a local dashboard. ⭐ 621
-- [thruwire/foreman](https://github.com/thruwire/foreman) - Software factory "foreman" built on Jev. ⭐ 573
+- [thruwire/foreman](https://github.com/thruwire/foreman) - Software factory "foreman" built on Jev. ⭐ 575
 - [ksenxx/kiss_ai](https://github.com/ksenxx/kiss_ai) - Agent framework whose optional Jev task classifier decides whether a request needs development work, with an LLM fallback. ⭐ 554
-- [gargpratyush/jev-router](https://github.com/gargpratyush/jev-router) - Routes each Claude Code or Codex turn: easy tasks go to fast models, hard ones to strong models. ⭐ 433
+- [gargpratyush/jev-router](https://github.com/gargpratyush/jev-router) - Routes each Claude Code or Codex turn: easy tasks go to fast models, hard ones to strong models. ⭐ 434
 - [notque/vexjoy-agent](https://github.com/notque/vexjoy-agent) - Agent toolkit with a Jev-powered `/d` command for routing requests to agents, skills, and pipelines. ⭐ 425
 - [WrongStack/WrongStack](https://github.com/WrongStack/WrongStack) - Coding agent with opt-in Jev skill suggestions and fleet-dispatch classification through TypeSafe or OpenRouter. ⭐ 339
 - [coldteadotai/abide](https://github.com/coldteadotai/abide) - Makes your coding agent follow your project rules: Jev checks every edit or turn against each rule in AGENTS.md and returns a probability. ⭐ 339
@@ -92,6 +92,7 @@ Within each section, projects are sorted by GitHub stars. Counts are refreshed w
 - [vinilana/jev-eval-agent](https://github.com/vinilana/jev-eval-agent) - Evaluation agent built on Jev. ⭐ 105
 - [ellipsis-dev/blink](https://github.com/ellipsis-dev/blink) - Codebase search powered by Jev. ⭐ 83
 - [IAmUnbounded/save-token-jev-clean](https://github.com/IAmUnbounded/save-token-jev-clean) - Portable context compaction for coding agents: Jev decides which tool calls still matter, and conversation text stays verbatim. ⭐ 73
+- [dzhng/jevgrep](https://github.com/dzhng/jevgrep) - CLI that uses Jev to find relevant files and source excerpts from natural-language queries. Sends selected source content to the configured hosted provider. ⭐ 70
 - [EliaAlberti/jev-rules](https://github.com/EliaAlberti/jev-rules) - Claude Code plugin where Jev picks which of your rules apply to each prompt, so Claude only sees the relevant ones. ⭐ 50
 - [valentynkit/jev-belay](https://github.com/valentynkit/jev-belay) - Claude Code Stop hook that reads the transcript for evidence and, only when files changed with no passing check since, spends one four-question Jev call before letting an unverified "done" stand. ⭐ 18
 - [valentynkit/jev.nvim](https://github.com/valentynkit/jev.nvim) - Neovim plugin that asks the buffer a plain-language question, splits it into functions with Treesitter, and ranks Jev's per-function scores in quickfix. ⭐ 8
@@ -99,8 +100,8 @@ Within each section, projects are sorted by GitHub stars. Counts are refreshed w
 
 ## MCP servers & agent skills
 
-- [jkudish/jev-mcp](https://github.com/jkudish/jev-mcp) - Fast, cheap, typed judgments from Jev as MCP tools. ⭐ 387
-- [itsmostafa/typesafe-mcp](https://github.com/itsmostafa/typesafe-mcp) - MCP connector that gives any agent direct access to Jev. ⭐ 312
+- [jkudish/jev-mcp](https://github.com/jkudish/jev-mcp) - Fast, cheap, typed judgments from Jev as MCP tools. ⭐ 388
+- [itsmostafa/typesafe-mcp](https://github.com/itsmostafa/typesafe-mcp) - MCP connector that gives any agent direct access to Jev. ⭐ 313
 - [kitze/skillbox](https://github.com/kitze/skillbox) - Self-hosted, versioned skills library for AI agents with optional Jev recommendations. ⭐ 248
 - [dbreunig/building-with-jev-skill](https://github.com/dbreunig/building-with-jev-skill) - Agent skill for writing and improving programs that call Jev. ⭐ 134
 - [Dicklesworthstone/skillranker](https://github.com/Dicklesworthstone/skillranker) - Rust CLI that ranks agent skills for the next step from live session context. Ships Claude Code hooks. ⭐ 121
@@ -113,7 +114,7 @@ Within each section, projects are sorted by GitHub stars. Counts are refreshed w
 ## Data, search & classification
 
 - [superagents-lab/jev-search](https://github.com/superagents-lab/jev-search) - Web search with Jev handling source selection, query understanding, and relevance ranking. ⭐ 470
-- [kyotofin/tax-doc-classifier](https://github.com/kyotofin/tax-doc-classifier) - Tax document page classifier. Reports 100% strict accuracy on 261 IRS forms at about $0.001 per page. ⭐ 459
+- [kyotofin/tax-doc-classifier](https://github.com/kyotofin/tax-doc-classifier) - Tax document page classifier. Reports 100% strict accuracy on 261 IRS forms at about $0.001 per page. ⭐ 460
 - [robbyczgw-cla/hermes-web-search-plus](https://github.com/robbyczgw-cla/hermes-web-search-plus) - Hermes search plugin with optional Jev checks for news intent, extracted-page quality, and language; disabled by default. ⭐ 417
 - [realZachi/pg-jev](https://github.com/realZachi/pg-jev) - PostgreSQL extension for asking your tables questions in plain language. ⭐ 365
 - [jexp/neo4jev](https://github.com/jexp/neo4jev) - Jev navigates a Neo4j graph by classifying neighbouring relationships. ⭐ 141
@@ -132,8 +133,8 @@ Within each section, projects are sorted by GitHub stars. Counts are refreshed w
 ## Games & fun
 
 - [fhshaik/typesafe-mario](https://github.com/fhshaik/typesafe-mario) - Jev agent that plays Super Mario Bros. from structured emulator state. ⭐ 402
-- [dabit3/jev-experiments](https://github.com/dabit3/jev-experiments) - Assorted Jev experiments. ⭐ 390
-- [standardagents/jevpilot](https://github.com/standardagents/jevpilot) - Playable Three.js driving simulator with a Jev-powered autopilot. ⭐ 188
+- [dabit3/jev-experiments](https://github.com/dabit3/jev-experiments) - Assorted Jev experiments. ⭐ 391
+- [standardagents/jevpilot](https://github.com/standardagents/jevpilot) - Playable Three.js driving simulator with a Jev-powered autopilot. ⭐ 189
 - [valentynkit/jev-plays-pokemon-red](https://github.com/valentynkit/jev-plays-pokemon-red) - Pokemon Red on PyBoy: code owns the route and the arithmetic, Jev picks only at branches, and every battle turn logs a faint prediction scored by Brier against what the RAM says. ⭐ 8
 
 ## Apps with Jev inside
@@ -160,7 +161,7 @@ Unofficial clients for languages the official SDKs don't cover.
 
 None of these are the official TypeSafe model. They are independent projects that copy Jev's input/output shape with open weights.
 
-- [NandhaKishorM/laya](https://github.com/NandhaKishorM/laya) - Fine-tuned open decision model, benchmarked against Jev's published numbers. ⭐ 25.7k
+- [NandhaKishorM/laya](https://github.com/NandhaKishorM/laya) - Fine-tuned open decision model, benchmarked against Jev's published numbers. ⭐ 25.8k
 - [jaredpalmer/kev](https://github.com/jaredpalmer/kev) - Tiny Jev-like model on Qwen2.5-0.5B that you can train and run on a MacBook. ⭐ 7.2k
 - [TheoLeeCJ/SemIf](https://github.com/TheoLeeCJ/SemIf) - "Semantic ifs" from open models on a single home GPU (3090). Formerly `openjev`. ⭐ 4.4k
 - [TianyuCodings/NanoJev](https://github.com/TianyuCodings/NanoJev) - Nano replica of Jev with parallel decisions, dynamic candidates, and an end-to-end training pipeline. ⭐ 2.3k
@@ -177,7 +178,7 @@ None of these are the official TypeSafe model. They are independent projects tha
 - [Anil-matcha/awesome-jev-by-typesafe](https://github.com/Anil-matcha/awesome-jev-by-typesafe) - Use cases, patterns, prompts, and starter code. ⭐ 859
 - [AbdelStark/awesome-typesafe](https://github.com/AbdelStark/awesome-typesafe) - Official resources and community projects for TypeSafe and System One models. ⭐ 528
 - [AnotiaWang/awesome-jev](https://github.com/AnotiaWang/awesome-jev) - Applications, libraries, and resources for Jev and System One. ⭐ 493
-- [cobanov/awesome-jev](https://github.com/cobanov/awesome-jev) - Source-backed list of projects built with Jev. ⭐ 407
+- [cobanov/awesome-jev](https://github.com/cobanov/awesome-jev) - Source-backed list of projects built with Jev. ⭐ 408
 - [fatwang2/awesome-jev](https://github.com/fatwang2/awesome-jev) - Project directory plus a reusable Jev-based GitHub review workflow. ⭐ 207
 
 ## Contributing
