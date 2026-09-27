@@ -135,6 +135,7 @@ Within each section, projects are sorted by GitHub stars. Counts are refreshed w
 
 ## Games & fun
 
+- [rmalde/minecraft-agent](https://github.com/rmalde/minecraft-agent) - Minecraft agent with an LLM planner and Jev selecting bounded Mineflayer actions. Runs against a locally configured server and requires paid model access and machine-specific setup. ⭐ 560
 - [fhshaik/typesafe-mario](https://github.com/fhshaik/typesafe-mario) - Jev agent that plays Super Mario Bros. from structured emulator state. ⭐ 405
 - [dabit3/jev-experiments](https://github.com/dabit3/jev-experiments) - Assorted Jev experiments. ⭐ 391
 - [standardagents/jevpilot](https://github.com/standardagents/jevpilot) - Playable Three.js driving simulator with a Jev-powered autopilot. ⭐ 190
