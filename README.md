@@ -144,11 +144,11 @@ Within each section, projects are sorted by GitHub stars. Counts are refreshed w
 
 ## Apps with Jev inside
 
-- [anishfn/shapeshift](https://github.com/anishfn/shapeshift) - Text input that selects UI cards using typed Jev intent decisions. Uses a local keyword classifier by default; hosted Jev is optional. ⭐ 692
 Larger products that use Jev for one part of the job.
 
 - [vercel-labs/json-render](https://github.com/vercel-labs/json-render) - Generative UI framework with experimental Jev-based composition from a component catalog. The integration is unreleased and requires a source build. ⭐ 18.3k
 - [Asymptote-Labs/agent-beacon](https://github.com/Asymptote-Labs/agent-beacon) - Cross-agent session history and memory. An opt-in command uses Jev to evaluate task success, reusable lessons, and supporting evidence; normal trace capture makes no Jev calls. ⭐ 1.6k
+- [anishfn/shapeshift](https://github.com/anishfn/shapeshift) - Text input that selects UI cards using typed Jev intent decisions. Uses a local keyword classifier by default; hosted Jev is optional. ⭐ 692
 - [CatCatUncle/openworkbuddy](https://github.com/CatCatUncle/openworkbuddy) - Local-first AI office agent. Jev checks each acceptance criterion as a yes/no question in goal mode (README in Chinese). ⭐ 208
 - [MillionSend/millionsend](https://github.com/MillionSend/millionsend) - Open-source email platform on AWS SES. The hosted version scores outbound mail with Jev for content monitoring. ⭐ 170
 
@@ -165,10 +165,6 @@ Unofficial clients for languages the official SDKs don't cover.
 
 ## Open models & replications
 
-- [nokia-applied-research/AnyJev](https://github.com/nokia-applied-research/AnyJev) - Independent Jev-style decision library for open models, with Choice, Score, and Noul questions, logit readouts, and optional learned heads. ⭐ 809
-- [Rizzo-AI-Academy/rizzo-flow](https://github.com/Rizzo-AI-Academy/rizzo-flow) - Independent local decision server that scores open-model logits for Choice, Score, and Noul questions, with a TypeSafe-compatible System One endpoint. ⭐ 656
-- [ollaya-dev/ollaya](https://github.com/ollaya-dev/ollaya) - Local runtime for downloading and serving open decision models, including Laya, through a TypeSafe-compatible API. Independent of TypeSafe. ⭐ 564
-- [receptron/laya](https://github.com/receptron/laya) - Node.js/TypeScript runtime for the independent Laya model using ONNX, exposing Jev-shaped typed questions and answers locally. ⭐ 500
 None of these are the official TypeSafe model. They are independent projects that copy Jev's input/output shape with open weights.
 
 - [NandhaKishorM/laya](https://github.com/NandhaKishorM/laya) - Fine-tuned open decision model, benchmarked against Jev's published numbers. ⭐ 26.3k
@@ -176,7 +172,11 @@ None of these are the official TypeSafe model. They are independent projects tha
 - [TheoLeeCJ/SemIf](https://github.com/TheoLeeCJ/SemIf) - "Semantic ifs" from open models on a single home GPU (3090). Formerly `openjev`. ⭐ 4.4k
 - [TianyuCodings/NanoJev](https://github.com/TianyuCodings/NanoJev) - Nano replica of Jev with parallel decisions, dynamic candidates, and an end-to-end training pipeline. ⭐ 2.3k
 - [vinnylarouge/jevlike](https://github.com/vinnylarouge/jevlike) - Trains a Jev-like model on your own data to pick one option from a changing candidate set. More an interesting experiment than a practical tool. ⭐ 1.3k
+- [nokia-applied-research/AnyJev](https://github.com/nokia-applied-research/AnyJev) - Independent Jev-style decision library for open models, with Choice, Score, and Noul questions, logit readouts, and optional learned heads. ⭐ 809
+- [Rizzo-AI-Academy/rizzo-flow](https://github.com/Rizzo-AI-Academy/rizzo-flow) - Independent local decision server that scores open-model logits for Choice, Score, and Noul questions, with a TypeSafe-compatible System One endpoint. ⭐ 656
+- [ollaya-dev/ollaya](https://github.com/ollaya-dev/ollaya) - Local runtime for downloading and serving open decision models, including Laya, through a TypeSafe-compatible API. Independent of TypeSafe. ⭐ 564
 - [featherless-ai/simple-jev](https://github.com/featherless-ai/simple-jev) - Turns any open model into a classifier / Jev-style endpoint. ⭐ 553
+- [receptron/laya](https://github.com/receptron/laya) - Node.js/TypeScript runtime for the independent Laya model using ONNX, exposing Jev-shaped typed questions and answers locally. ⭐ 500
 - [ekzhang/openjev-sglang](https://github.com/ekzhang/openjev-sglang) - Jev-compatible, prefill-only API endpoint built on open models with SGLang. ⭐ 329
 - [hr98w/jev-visual](https://github.com/hr98w/jev-visual) - Educational Jev-like visual inference experiment on Apple Silicon. ⭐ 287
 - [kshetrajna12/reflex](https://github.com/kshetrajna12/reflex) - Small open decision model on Qwen3.5: state plus typed questions in, calibrated probabilities out. ⭐ 153
