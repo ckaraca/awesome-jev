@@ -168,6 +168,7 @@ None of these are the official TypeSafe model. They are independent projects tha
 - [TheoLeeCJ/SemIf](https://github.com/TheoLeeCJ/SemIf) - "Semantic ifs" from open models on a single home GPU (3090). Formerly `openjev`. ⭐ 4.4k
 - [TianyuCodings/NanoJev](https://github.com/TianyuCodings/NanoJev) - Nano replica of Jev with parallel decisions, dynamic candidates, and an end-to-end training pipeline. ⭐ 2.3k
 - [vinnylarouge/jevlike](https://github.com/vinnylarouge/jevlike) - Trains a Jev-like model on your own data to pick one option from a changing candidate set. More an interesting experiment than a practical tool. ⭐ 1.3k
+- [feder-cr/jev](https://github.com/feder-cr/jev) - jevos: a 1B model (MiniCPM) cut to 17 layers with a one-logit head, answering yes/no questions over Jev's wire format via llama.cpp on CPU.
 - [featherless-ai/simple-jev](https://github.com/featherless-ai/simple-jev) - Turns any open model into a classifier / Jev-style endpoint. ⭐ 549
 - [ekzhang/openjev-sglang](https://github.com/ekzhang/openjev-sglang) - Jev-compatible, prefill-only API endpoint built on open models with SGLang. ⭐ 327
 - [hr98w/jev-visual](https://github.com/hr98w/jev-visual) - Educational Jev-like visual inference experiment on Apple Silicon. ⭐ 287
