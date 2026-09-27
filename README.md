@@ -64,6 +64,7 @@ Within each section, projects are sorted by GitHub stars. Counts are refreshed w
 
 ## Mobile & robotics
 
+- [jev-chat/jev-chat-jarvis](https://github.com/jev-chat/jev-chat-jarvis) - Android chat assistant that uses Jev to assess intent and rank draft replies. Can fill the input field, but sending remains manual; chat context goes to configured providers. ⭐ 6.7k
 - [droidrun/mobile-jev](https://github.com/droidrun/mobile-jev) - Agent that drives real Android devices with Jev. Includes live demos, a CLI, and execution traces. ⭐ 408
 - [rokbenko/quackd](https://github.com/rokbenko/quackd) - One CLI for many robots (Open Duck Mini, LeRobot, ToddlerBot, ROS bases). An LLM does the planning and Jev handles the cheaper steps. ⭐ 241
 - [RomanSlack/jev-drone](https://github.com/RomanSlack/jev-drone) - Camera-only autonomous drone in MuJoCo with Jev in the control loop at 2.5 Hz. ⭐ 211
