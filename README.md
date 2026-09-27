@@ -173,6 +173,7 @@ None of these are the official TypeSafe model. They are independent projects tha
 - [TheoLeeCJ/SemIf](https://github.com/TheoLeeCJ/SemIf) - "Semantic ifs" from open models on a single home GPU (3090). Formerly `openjev`. ⭐ 4.4k
 - [TianyuCodings/NanoJev](https://github.com/TianyuCodings/NanoJev) - Nano replica of Jev with parallel decisions, dynamic candidates, and an end-to-end training pipeline. ⭐ 2.3k
 - [vinnylarouge/jevlike](https://github.com/vinnylarouge/jevlike) - Trains a Jev-like model on your own data to pick one option from a changing candidate set. More an interesting experiment than a practical tool. ⭐ 1.3k
+- [feder-cr/jev](https://github.com/feder-cr/jev) - jevos: independent local yes/no decision model with a Jev-compatible Noul API, served through llama.cpp with CPU support. The jevos binary model does not support Choice or Score questions. ⭐ 1k
 - [nokia-applied-research/AnyJev](https://github.com/nokia-applied-research/AnyJev) - Independent Jev-style decision library for open models, with Choice, Score, and Noul questions, logit readouts, and optional learned heads. ⭐ 809
 - [Rizzo-AI-Academy/rizzo-flow](https://github.com/Rizzo-AI-Academy/rizzo-flow) - Independent local decision server that scores open-model logits for Choice, Score, and Noul questions, with a TypeSafe-compatible System One endpoint. ⭐ 656
 - [ollaya-dev/ollaya](https://github.com/ollaya-dev/ollaya) - Local runtime for downloading and serving open decision models, including Laya, through a TypeSafe-compatible API. Independent of TypeSafe. ⭐ 564
