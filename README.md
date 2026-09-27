@@ -61,6 +61,7 @@ Within each section, projects are sorted by GitHub stars. Counts are refreshed w
 - [socai-io/socai](https://github.com/socai-io/socai) - Browser and computer-use agent tuned for social media research and content extraction. ⭐ 219
 - [realZachi/typesafe-adblock](https://github.com/realZachi/typesafe-adblock) - Fun Chrome extension that asks Jev "is this element an ad?" and removes it. BYOK, no backend, not a real ad blocker. ⭐ 85
 - [jcpsimmons/jev-macos-loop](https://github.com/jcpsimmons/jev-macos-loop) - Native macOS GUI automation on Apple silicon: OmniParser CoreML and Apple Vision OCR find the controls, and Jev picks the action. ⭐ 24
+- [valentynkit/jev-skip](https://github.com/valentynkit/jev-skip) - Browser extension that sends YouTube captions to Jev, visualizes segment classifications on the seek bar, and auto-skips high-confidence segments by default. Requires a user-supplied API key; auto-skip can be disabled. ⭐ 5
 
 ## Mobile & robotics
 
