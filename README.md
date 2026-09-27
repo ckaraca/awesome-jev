@@ -167,6 +167,7 @@ Unofficial clients for languages the official SDKs don't cover.
 - [nokia-applied-research/AnyJev](https://github.com/nokia-applied-research/AnyJev) - Independent Jev-style decision library for open models, with Choice, Score, and Noul questions, logit readouts, and optional learned heads. ⭐ 809
 - [Rizzo-AI-Academy/rizzo-flow](https://github.com/Rizzo-AI-Academy/rizzo-flow) - Independent local decision server that scores open-model logits for Choice, Score, and Noul questions, with a TypeSafe-compatible System One endpoint. ⭐ 656
 - [ollaya-dev/ollaya](https://github.com/ollaya-dev/ollaya) - Local runtime for downloading and serving open decision models, including Laya, through a TypeSafe-compatible API. Independent of TypeSafe. ⭐ 564
+- [receptron/laya](https://github.com/receptron/laya) - Node.js/TypeScript runtime for the independent Laya model using ONNX, exposing Jev-shaped typed questions and answers locally. ⭐ 500
 None of these are the official TypeSafe model. They are independent projects that copy Jev's input/output shape with open weights.
 
 - [NandhaKishorM/laya](https://github.com/NandhaKishorM/laya) - Fine-tuned open decision model, benchmarked against Jev's published numbers. ⭐ 26.3k
