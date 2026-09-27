@@ -142,6 +142,7 @@ Within each section, projects are sorted by GitHub stars. Counts are refreshed w
 
 ## Apps with Jev inside
 
+- [anishfn/shapeshift](https://github.com/anishfn/shapeshift) - Text input that selects UI cards using typed Jev intent decisions. Uses a local keyword classifier by default; hosted Jev is optional. ⭐ 692
 Larger products that use Jev for one part of the job.
 
 - [vercel-labs/json-render](https://github.com/vercel-labs/json-render) - Generative UI framework with experimental Jev-based composition from a component catalog. The integration is unreleased and requires a source build. ⭐ 18.3k
