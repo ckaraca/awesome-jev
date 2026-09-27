@@ -117,6 +117,7 @@ Within each section, projects are sorted by GitHub stars. Counts are refreshed w
 ## Data, search & classification
 
 - [superagents-lab/jev-search](https://github.com/superagents-lab/jev-search) - Web search with Jev handling source selection, query understanding, and relevance ranking. ⭐ 472
+- [jerryjliu/docjev](https://github.com/jerryjliu/docjev) - Python library, CLI, and local app for document classification and splitting. Uses local LiteParse OCR and hosted Jev decisions, with optional cloud OCR. ⭐ 464
 - [kyotofin/tax-doc-classifier](https://github.com/kyotofin/tax-doc-classifier) - Tax document page classifier. Reports 100% strict accuracy on 261 IRS forms at about $0.001 per page. ⭐ 464
 - [robbyczgw-cla/hermes-web-search-plus](https://github.com/robbyczgw-cla/hermes-web-search-plus) - Hermes search plugin with optional Jev checks for news intent, extracted-page quality, and language; disabled by default. ⭐ 417
 - [realZachi/pg-jev](https://github.com/realZachi/pg-jev) - PostgreSQL extension for asking your tables questions in plain language. ⭐ 371
