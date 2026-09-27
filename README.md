@@ -162,6 +162,7 @@ Unofficial clients for languages the official SDKs don't cover.
 
 ## Open models & replications
 
+- [nokia-applied-research/AnyJev](https://github.com/nokia-applied-research/AnyJev) - Independent Jev-style decision library for open models, with Choice, Score, and Noul questions, logit readouts, and optional learned heads. ⭐ 809
 None of these are the official TypeSafe model. They are independent projects that copy Jev's input/output shape with open weights.
 
 - [NandhaKishorM/laya](https://github.com/NandhaKishorM/laya) - Fine-tuned open decision model, benchmarked against Jev's published numbers. ⭐ 26.3k
