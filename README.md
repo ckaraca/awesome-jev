@@ -147,6 +147,7 @@ Within each section, projects are sorted by GitHub stars. Counts are refreshed w
 
 Larger products that use Jev for one part of the job.
 
+- [DeployMates/jev-seo](https://github.com/DeployMates/jev-seo) - Audits a business website for SEO and AI-answer-engine visibility: a deterministic crawler measures each page, Jev answers typed Choice, Score and Noul questions over the state derived from that page, and the probabilities stream to a dashboard as NDJSON.
 - [vercel-labs/json-render](https://github.com/vercel-labs/json-render) - Generative UI framework with experimental Jev-based composition from a component catalog. The integration is unreleased and requires a source build. ⭐ 18.4k
 - [Asymptote-Labs/agent-beacon](https://github.com/Asymptote-Labs/agent-beacon) - Cross-agent session history and memory. An opt-in command uses Jev to evaluate task success, reusable lessons, and supporting evidence; normal trace capture makes no Jev calls. ⭐ 1.6k
 - [anishfn/shapeshift](https://github.com/anishfn/shapeshift) - Text input that selects UI cards using typed Jev intent decisions. Uses a local keyword classifier by default; hosted Jev is optional. ⭐ 713
