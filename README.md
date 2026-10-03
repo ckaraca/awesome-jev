@@ -183,6 +183,7 @@ None of these are the official TypeSafe model. They are independent projects tha
 - [hr98w/jev-visual](https://github.com/hr98w/jev-visual) - Educational Jev-like visual inference experiment on Apple Silicon. ⭐ 294
 - [kshetrajna12/reflex](https://github.com/kshetrajna12/reflex) - Small open decision model on Qwen3.5: state plus typed questions in, calibrated probabilities out. ⭐ 154
 - [iammrduncan/typesafe-ai-benchmark](https://github.com/iammrduncan/typesafe-ai-benchmark) - LLM gateway that imitates TypeSafe's structured output, for benchmarking against the real thing. ⭐ 40
+- [SamratDuttaOfficial/WaterSheep](https://github.com/SamratDuttaOfficial/WaterSheep) - Independent open-weight decision model fine-tuned from ModernBERT-base that answers Noul, Choice, Score and multi-label questions with a probability per option, through a TypeSafe-compatible `/v1/systemone` server or in the browser with ONNX.
 
 ## Other lists
 
