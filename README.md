@@ -142,6 +142,7 @@ Within each section, projects are sorted by GitHub stars. Counts are refreshed w
 - [dabit3/jev-experiments](https://github.com/dabit3/jev-experiments) - Assorted Jev experiments. ⭐ 397
 - [standardagents/jevpilot](https://github.com/standardagents/jevpilot) - Playable Three.js driving simulator with a Jev-powered autopilot. ⭐ 209
 - [valentynkit/jev-plays-pokemon-red](https://github.com/valentynkit/jev-plays-pokemon-red) - Pokemon Red on PyBoy: code owns the route and the arithmetic, Jev picks only at branches, and every battle turn logs a faint prediction scored by Brier against what the RAM says. ⭐ 8
+- [cwdx/1-million-emojis](https://github.com/cwdx/1-million-emojis) - Shared 1,000 × 1,000 emoji canvas where humans paint and Jev paints alongside them: after each stroke, one request answers a Choice over named emoji-and-place options and a Noul on whether the stroke is unfinished, and code finishes the shape or samples the pick. Live at https://chriswijnia.com/lab/emoji, free, no sign-up.
 
 ## Apps with Jev inside
 
