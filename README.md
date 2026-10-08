@@ -193,6 +193,7 @@ None of these are the official TypeSafe model. They are independent projects tha
 - [AbdelStark/awesome-typesafe](https://github.com/AbdelStark/awesome-typesafe) - Official resources and community projects for TypeSafe and System One models. ⭐ 562
 - [cobanov/awesome-jev](https://github.com/cobanov/awesome-jev) - Source-backed list of projects built with Jev. ⭐ 506
 - [fatwang2/awesome-jev](https://github.com/fatwang2/awesome-jev) - Project directory plus a reusable Jev-based GitHub review workflow. ⭐ 220
+- [kraayenjon/awesome-jev](https://github.com/kraayenjon/awesome-jev) - Curated list of Jev use cases, projects, SDKs and resources, kept alongside madewithjev.com.
 
 ## Contributing
 
